@@ -12,9 +12,9 @@ suppressPackageStartupMessages({
 # EDIT THESE
 # -----------------------
 # Folder containing input files named like: sim1_17.1.general.csv
-OUTDIR <- "C:/Users/gemla/Project/output"
+OUTDIR <- ""
 # Folder where output summary CSV files will be written.
-WRITE_DIR <- "C:/Users/gemla/Project/output/results_optimised"
+WRITE_DIR <- ""
 # Optional filename prefix filter. Use "" to include all .general.csv files.
 PREFIX <- ""  # e.g. "sim1_" or "" for all
 # Tolerance used when deciding if freqA is effectively 0 or 1.
